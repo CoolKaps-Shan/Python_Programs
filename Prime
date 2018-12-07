@@ -1,0 +1,21 @@
+def original():
+    try :
+        num = int(input("bo "))
+        n= num//2;
+        print(n)
+        if (num > 1):
+            for i in range(2, n):
+                
+                if (num % i == 0):
+                    print(num,"is not a prime number")
+                    break
+            else:
+                print("Prime number...yesssssssssss")
+                   
+                
+                
+        else:
+            print(num," enter the number above 1")
+    except ValueError:
+        print("enter valid nos ")
+original()
