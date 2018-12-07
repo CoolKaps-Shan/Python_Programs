@@ -1,0 +1,28 @@
+import datetime
+
+#user_inputs = input ("enter your name : ")
+time = datetime.datetime.now().time()
+#print(user_inputs)
+hours = time.hour
+#print(hours)
+def show_time():
+    try :
+        user_inputs = input("enter your name : ")
+        for i in user_inputs :
+            print (i)
+            if ((i.isalpha()==True ) and (i.isspace() == False) and (i.isnumeric()==False)):
+                if (hours < 12) :
+                    print("hi "+user_inputs,"good morning ")
+                    break
+                elif (hours >= 12 and hours < 18 ):
+                    print("hi "+user_inputs,"good afternoon ")
+                    break
+                else :
+                    print("hi "+user_inputs,"good evening ")
+                    break
+            else:
+                print(" !! enter valid name  ")
+                break
+    except ValueError:
+        print("enter string and not : "+user_inputs)
+show_time()
