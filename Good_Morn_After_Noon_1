@@ -1,0 +1,28 @@
+import datetime
+time = datetime.datetime.now().time()
+#print(user_inputs)
+hours = time.hour
+
+
+def y():
+    kk = input("enter name : ")
+    flag = 0
+    for i in kk:
+        if ((i.isalpha()==True ) and (i.isspace() == False) and (i.isnumeric()==False)):
+            flag = 0
+        else:
+            flag = 1
+            break
+            
+    if flag == 0:        
+        if (hours < 12) :
+            print("hi "+kk,"good morning macha")
+        elif (hours >= 12 and hours < 18 ):
+            print("hi "+kk,"good afternoon macha")
+        else :
+            print("hi "+kk,"good evening macha")
+    else:
+        print(" bro !! enter valid name  ")
+        y()
+    
+y()
