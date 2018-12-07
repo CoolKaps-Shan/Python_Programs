@@ -1,0 +1,30 @@
+# Python program to display next prime
+def Prime():
+    try :
+        initial_no = int(input("enter 1st nos : "))
+        range_upto = initial_no**2
+        lists = []
+        if (initial_no >1):
+            
+            def next_prime():
+                for num in range(initial_no+1,range_upto):
+                    if num >= 1:
+                        for i in range(2,num):
+                            if (num % i) == 0:
+                                break
+                            else:
+                                lists.append(num)
+                                break
+                            
+                    else:
+                        print("enter +ve no")
+            next_prime()
+            print(lists)
+            print("the 2 nd prime no is ",+lists[0])
+        
+        else :
+            print("+ve ")
+    except ValueError :
+        print("dont use special char use only int")
+        
+Prime()
