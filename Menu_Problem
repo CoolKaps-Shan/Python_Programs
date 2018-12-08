@@ -1,0 +1,56 @@
+def menu():
+    print("***Menu_Card***")
+    choice = input("""
+A: Tea
+B: Coffie
+C: Maggie
+D: total sale
+Q: Quit/Log Out
+Please enter your choice:""")
+
+    if choice == "A" or choice =="a":
+        Total_Tea()
+    elif choice == "B" or choice =="b":
+        Total_Coffie()
+    elif choice == "C" or choice =="c":
+        Total_Maggie()
+    elif choice=="D" or choice=="d":
+        Total_sale()
+    elif choice=="Q" or choice=="q":
+        sys.exit
+    else:
+        print("You must only select either A,B,C, or D.")
+        print("Please try again")
+        menu()
+menu()
+
+def Total_Tea(menu):
+    tea = 0
+    for num in (A.menu() or a.menu()):
+        tea = tea +1
+    print(tea)
+Total_Tea()
+
+
+def Total_Coffie():
+    coffie = 0
+    for num in Input_Str:
+        coffie = coffie +1
+    print(coffie)
+Total_Coffie()
+
+
+def Total_Maggie():
+    maggie = 0
+    for num in Input_Str:
+        maggie = maggie +1
+    print(maggie)
+    
+Total_Maggie()
+
+def Total_sale():
+    sale = 0
+    for num in Input_Str:
+        sale = sale +1
+    print(sale)
+Total_sale()
