@@ -1,0 +1,15 @@
+#len of str
+try:
+    Input_Str=input("Enter a string ")
+    if ((Input_Str.isalnum() == True) ):
+        str_len()
+    else:
+        print("invalid string")
+except ValueError :
+    print("no symbole")
+def str_len():
+    var_a = 0
+    for num in Input_Str:
+        var_a = var_a +1
+    print(var_a)
+#str_len()
