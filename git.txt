@@ -1,0 +1,999 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  sudo apt-get install mysql-server
+    4  sudo apt install snap
+    5  sudo apt-get install snap
+    6  snap
+    7  snap help --all
+    8  install snap
+    9  apt install snap
+   10  sudo apt install snap
+   11  sudo apt install snapd
+   12  python3 --version
+   13  sudo apt install python3.7
+   14  sudo apt install python3
+   15  sudo apt install python3.7
+   16  sudo apt-get install python3.7
+   17  sudo apt-get install python3.6
+   18  sudo apt install python3.6
+   19  sudo apt-get update
+   20  sudo apt install python3.6
+   21  sudo apt-get install python3.7
+   22  sudo apt-get update python3
+   23  python3 --version
+   24  sudo apt-get install python3.6
+   25  sudo apt-get install python3
+   26  sudo apt-get install python3-pip
+   27  python3 --version
+   28  python3.7 --version
+   29  python3 --version
+   30  sudo apt install python3.6
+   31  sudo apt install python3
+   32  sudo apt install python3.7
+   33  sudo apt-get update 
+   34  sudo apt-get install nodejs
+   35  nodejs -v
+   36  npm -v 
+   37  sudo apt install npn
+   38  sudo apt install npm
+   39  npm -v 
+   40  vim server.js
+   41  sudo apt-get install vim
+   42  vim server.js
+   43  node server.js 
+   44  sudo apt install nodejs-legacy
+   45  node server.js 
+   46  sudo ntfsfix /dev/sdXY
+   47  sudo ntfsfix /dev/sda8
+   48  sudo ntfsfix /dev/sda7
+   49  sudo ntfsfix /dev/sda4
+   50  pip3 install pandas
+   51  pip install pandas
+   52  pip freeze
+   53  pip3 freeze
+   54  pip install pandas --upgrade
+   55  pip3 install pandas --upgrade
+   56  python3 --version
+   57  sudo apt install python3.7
+   58  python3.7 --version
+   59  python --version
+   60  pip3 install numpy
+   61  pip install numpy
+   62  python3.7 --version
+   63  pip install notebook
+   64  sudo apt install python3-pip
+   65  sudo apt install python-pip
+   66  pip install notebook
+   67  sudo apt install python-pip3
+   68  sudo apt install python3-pip3
+   69  sudo apt install python3-pip
+   70  jupyter notebook
+   71  pip install jupyter
+   72  pip install --upgrade pip
+   73  pip install --upgrade pip20.2.2
+   74  pip install notebook
+   75  jupyter notebook
+   76  pip uninstall notebook
+   77  pip3 install notebook
+   78  jupyter notebook
+   79  pip3 install notebook
+   80  pip3 install --upgrade pip3
+   81  pip install --upgrade pip
+   82  pip3 install --upgrade pip
+   83  pip3 install notebook
+   84  sudo apt install software-properties-common
+   85  sudo add-apt-repository ppa:deadsnakes/ppa
+   86  sudo apt install python3.7
+   87  python3.7 --version
+   88  sudo apt-get update
+   89  sudo apt install python3.7
+   90  python3.7 --version
+   91  pip3 install notebook
+   92  pip3 install --upgrade pip
+   93  pip3 install notebook
+   94  pip install notebook
+   95  jupyter notebook
+   96  python -m pip install SomePackage
+   97  python -m pip install pandas
+   98  pip install xlrd
+   99  python -m pip install xlrd
+  100  getmac
+  101  get mac
+  102  getmac
+  103  pip install getmac
+  104  getmac
+  105  cd Documents/
+  106  ls
+  107  cd ubuntu_19/
+  108  ls
+  109  cd backup_ssh_and_client/
+  110  ls
+  111  cd practical_model_ssh
+  112  ls
+  113  python3 scp_trian.py 
+  114  ls'\
+  115  ls
+  116  cd
+  117  ls
+  118  cd Music/
+  119  cd backup_ssh_and_client/
+  120  ls
+  121  python3 max.py 
+  122  ls
+  123  python3 max.py 
+  124  ls
+  125  ssh ethna@192.168.0.60
+  126  ssh ethna@192.168.0.53
+  127  scp -r /home/bhush/Music/backup_ssh_and_client/practical_model_ssh _backup_v1/client_1_3_module.py ethna@192.168.0.60:/home/ethna/Documents
+  128  scp -r /home/bhush/Music/backup_ssh_and_client/practical_model_ssh _backup_v1/client_1_3_module.py ethna@192.168.0.53:/home/ethna/Documents
+  129  python3 sever_v_7_1.py 
+  130  python3.7 sever_v_7_1.py 
+  131  exit
+  132  ls
+  133  python3 sever_v_7_1.py 
+  134  cd
+  135  sudo vim /etc/snmp/snmpd.conf
+  136  sudo apt-get install -y snmpd snmp
+  137  sudo vim /etc/snmp/snmp.conf
+  138  sudo nano /etc/snmp/snmpd.conf
+  139  sudo service snmpd restart
+  140  snmpwalk -c1 -v public localhost
+  141  snmpwalk -v -c1  public localhost
+  142  snmpwalk -v1 -c public localhost
+  143  sudo vim /etc/snmp/snmp.conf
+  144  sudo service snmpd restart
+  145  snmpwalk -v1 -c public localhost
+  146  sudo nano /etc/snmp/snmpd.conf
+  147  sudo service snmpd restart
+  148  snmpwalk -v1 -c public localhost
+  149  sudo nano /etc/snmp/snmpd.conf
+  150  sudo service snmpd restart
+  151  snmpwalk -v1 -c public localhost
+  152  sudo nano /etc/snmp/snmp.conf
+  153  sudo service snmpd restart
+  154  snmpwalk -v1 -c public localhost
+  155  sudo nano /etc/snmp/snmpd.conf
+  156  sudo service snmpd restart
+  157  snmpwalk -v1 -c public localhost
+  158  sudo nano /etc/snmp/snmpd.conf
+  159  sudo service snmpd restart
+  160  snmpwalk -v1 -c public localhost
+  161  sudo nano /etc/snmp/snmpd.conf
+  162  sudo service snmpd restart
+  163  snmpwalk -v1 -c public localhost
+  164  sudo nano /etc/snmp/snmp.conf
+  165  sudo service snmpd restart
+  166  snmpwalk -v1 -c public localhost
+  167  sudo nano /etc/snmp/snmp.conf
+  168  sudo service snmpd restart
+  169  snmpwalk -v1 -c public localhost
+  170  sudo nano /etc/snmp/snmpd.conf
+  171  sudo service snmpd restart
+  172  snmpwalk -v1 -c public localhost
+  173  sudo apt-get install snmp snmp-mibs-downloader
+  174  sudo nano /etc/snmp/snmp.conf
+  175  sudo nano /etc/snmp/snmpd.conf
+  176  sudo service snmpd restart
+  177  snmpwalk -v1 -c public localhost
+  178  sudo nano /etc/snmp/snmp.conf
+  179  sudo nano /etc/snmp/snmpd.conf
+  180  snmpwalk -v1 -c public localhost > snmp.txt
+  181  cd Desktop/
+  182  ls
+  183  python3 sever_v_7_1.py 
+  184  python3 client_1_3_module.py 
+  185  python3 sever_v_7_1.py 
+  186  python3 client_1_3_module.py 
+  187  whereis wireshark
+  188  chmod 777 /usr/bin/wireshark
+  189  sudo chmod 777 /usr/bin/wireshark
+  190  sudo chmod 777 /usr/bin/dumpcap
+  191  python3 client_1_3_module.py 
+  192  pip install seaborn
+  193  pip install sklearn
+  194  pip3 install seaborn
+  195  pip3 install sklearn
+  196  hist
+  197  python -m pip install seaborn
+  198  python -m pip install sklearn
+  199  jupyter notebook
+  200  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+  201  echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+  202  sudo apt-get update
+  203  sudo apt-get install -y mongodb-org
+  204  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv EA312927
+  205  echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
+  206  sudo apt-get update
+  207  sudo rm /etc/apt/sources.list.d/mongodb*.list
+  208  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv E52529D4
+  209  sudo bash -c 'echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/4.0 multiverse" > /etc/apt/sources.list.d/mongodb-org-4.0.list'
+  210  sudo apt update
+  211  sudo apt install mongodb-org
+  212  systemctl enable mongod.service
+  213  systemctl start mongod.service
+  214  mongod
+  215  mongo
+  216  cd Desktop/
+  217  ls
+  218  python3 sever_v_7_1.py 
+  219  python3 sever_v_7_1_copy.py 
+  220  python3 client_1_3_module.py 
+  221  cd client/
+  222  python3 client_1_3_module.py 
+  223  cd Desktop/
+  224  ls
+  225  python3 client_1_3_module.py 
+  226  snmpwalk -v1 -c public localhost > wow.txt
+  227  python3 client_1_3_module.py 
+  228  cd client/
+  229  python3 client_1_3_module.py 
+  230  pwd
+  231  cd /
+  232  pwd
+  233  cd
+  234  pwd
+  235  cd /
+  236  pwd
+  237  cd
+  238  cd bk\john
+  239  mkdir test
+  240  cd test\john
+  241  cd test \ john
+  242  ls
+  243  cd
+  244  mkdir peter\ parkes
+  245  ls
+  246  cd peter\ parkes/
+  247  ls
+  248  cd
+  249  cd peter parkes
+  250  cd peter\ parkes
+  251  cd
+  252  rm -r peter\ parkes/
+  253  rm -r test/
+  254  ls -R
+  255  ls
+  256  cd Music/
+  257  ls
+  258  ls -R
+  259  ls
+  260  cd ssh_agent/
+  261  ls
+  262  ls -R
+  263  ls -r
+  264  ls
+  265  ls -a
+  266  cd .
+  267  ls
+  268  ls -a
+  269  cd
+  270  mkdir pune
+  271  cd pune/
+  272  ls
+  273  touch .pune
+  274  ls
+  275  ls -a
+  276  vim .pune 
+  277  ls -s
+  278  ls -e
+  279  ls --help
+  280  ls -a
+  281  nano .pune 
+  282  ls -lart
+  283  ls -r
+  284  ls -t
+  285  ls -l
+  286  ls -lart
+  287  touch f1,txt
+  288  touch f2.txt
+  289  touch f1.txt
+  290  touch f3.txt
+  291  touch f4.txt
+  292  touch f5.txt
+  293  ls
+  294  rm f1,txt 
+  295  ls
+  296  ls -r
+  297  ls
+  298  ls -R
+  299  ls -a
+  300  ls -lart
+  301  ls -r
+  302  ls -t
+  303  cd
+  304  top
+  305  history 50 > /home/Desktop/learn_linux_by_own.txt
+  306  history 50 > /home/bhush/Desktop/learn_linux_by_own.txt
+  307  cd Desktop/
+  308  ls
+  309  cd Desktop/
+  310  ls
+  311  python3 sever_v_7_1.py 
+  312  python3 sever_v_7_1_copy.py 
+  313  ls 
+  314  python3 client_1_3_module.py 
+  315  touch AI.py
+  316  exit
+  317  jupyter notebook
+  318  cd Desktop/
+  319  cd private_project/
+  320  python3 AI.py 
+  321  pip3 install pyttsx3
+  322  python -m pip install pyttsx3
+  323  python3 -m pip install pyttsx3
+  324  python -m pip3 install pyttsx3
+  325  python -m pip install pyttsx3
+  326  python3 -m pip install pyttsx3
+  327  cd Desktop/
+  328  cd private_project/
+  329  ls
+  330  python3 AI.py 
+  331  cd
+  332  python3
+  333  passwd
+  334  24866842
+  335  passwd
+  336  cd Desktop/
+  337  ls
+  338  vim learn_linux_by_own.txt 
+  339  cp learn_linux_by_own.txt ~/Desktop/perfect.txt
+  340  ls
+  341  vim perfect.txt 
+  342  cat perfect.txt 
+  343  zcat perfect.txt
+  344  zcat perfect.txt.gz
+  345  tac perfect.txt 
+  346  last
+  347  last > last\n user.txt
+  348  last > last\nuser.txt
+  349  last > last \nuser.txt
+  350  who
+  351  last root
+  352  last bhush
+  353  a = 10
+  354  a=10
+  355  b=20
+  356  $a+$b
+  357  echo $a+$b
+  358  echo ($a+$b)
+  359  echo "$a+$b"\
+  360  echo "$a+$b"
+  361  echo $a+$b
+  362  echo $a+$b|bc
+  363  a=10
+  364  type($a)
+  365  $a
+  366  $a |bc
+  367  $a|bc
+  368  echo $a
+  369  declare -i a=10
+  370  echo $a
+  371  declare -i b=20
+  372  echo $a+$b
+  373  $a+$b
+  374  $a+$b|bc
+  375  a=10
+  376  b=20
+  377  sum=$(($a+$b))
+  378  echo $sum
+  379  vim sum.sh
+  380  chmod 777 sum.sh 
+  381  .sum.sh
+  382  . sum.sh
+  383  vim sum.sh
+  384  . sum.sh
+  385  vim sum.sh
+  386  sh
+  387  exit
+  388  cd Desktop/
+  389  ls
+  390  vim sum.sh 
+  391  . sum.sh
+  392  vim sum.sh 
+  393  . sum.sh
+  394  history
+  395  vim sum.sh 
+  396  . sum.sh
+  397  bash
+  398  exit
+  399  bash
+  400  man bash
+  401  exit
+  402  cd Desktop/
+  403  mkdir linux tuto
+  404  ls
+  405  mkdir linux\n tuto
+  406  mkdir linux\ntuto
+  407  ls
+  408  rm -r tuto/
+  409  rm -r linux
+  410  rm -r linuxn
+  411  ls
+  412  rm -r linuxntuto/
+  413  mkdir linux_tuto
+  414  cd linux_tuto/
+  415  touch hello.sh
+  416  vim hello.sh 
+  417  chmod +x hello.sh 
+  418  . hello.sh 
+  419  ./hello.sh 
+  420  bash hello.sh 
+  421  sh hello.sh 
+  422  history 5
+  423  history 5 > how_to_execute_bash_file.txt
+  424  history 10 > how_to_execute_bash_file.txt
+  425  dos2unix hello.sh 
+  426  sudo apt-get install dos2unix
+  427  dos2unix hello.sh 
+  428  hello.sh
+  429  . hello.sh
+  430  cp hello.sh  linux_prac_1.sh
+  431  vim linux_prac_1.sh 
+  432  chmod +x linux_prac_1.sh 
+  433  doc2unix linux_prac_1.sh 
+  434  dos2unix linux_prac_1.sh 
+  435  vim linux_prac_1.sh 
+  436  . linux_prac_1.sh 
+  437  vim linux_prac_1.sh 
+  438  . linux_prac_1.sh 
+  439  vim linux_prac_1.sh 
+  440  . linux_prac_1.sh 
+  441  vim linux_prac_1.sh 
+  442  dos2unix linux_prac_1.sh 
+  443  . linux_prac_1.sh 
+  444  .
+  445  . >a.txt
+  446  . > a.txt
+  447  ./ > a.txt
+  448  ./ 
+  449  touch linux_prac_2.sh
+  450  vim linux_prac_2.sh 
+  451  chmod +x linux_prac_2.sh 
+  452  . linux_prac_2.sh bhushan
+  453  . linux_prac_2.shbhushan
+  454  . linux_prac_2.sh bhushan
+  455  vim linux_prac_2.sh 
+  456  . linux_prac_2.sh bhushan
+  457  . linux_prac_2.sh bhushan kapat
+  458  vim linux_prac_2.sh 
+  459  . linux_prac_2.sh bhushan kapat
+  460  vim linux_prac_2.sh 
+  461  . linux_prac_2.sh bhushan yes
+  462  vim linux_prac_2.sh 
+  463  . linux_prac_2.sh bhushan yes bloody_ass
+  464  vim linux_prac_2.sh 
+  465  . linux_prac_2.sh bhushan yes bloody_ass
+  466  vim linux_prac_2.sh 
+  467  . linux_prac_2.sh bhushan yes bloody_ass
+  468  . linux_prac_2.sh bhushan yes take_care_sir > linux_prac_2_soln.txt
+  469  cat linux_prac_2_soln.txt 
+  470  $1
+  471  echo $1
+  472  . linux_prac_2.sh bhushan yes bloody_ass
+  473  vim linux_prac_2.sh 
+  474  . linux_prac_2.sh bhushan yes bloody_ass
+  475  vim linux_prac_2.sh 
+  476  . linux_prac_2.sh bhushan yes bloody_ass
+  477  vim linux_prac_2.sh 
+  478  . linux_prac_2.sh bhushan yes bloody_ass
+  479  vim lx_ex_3.sh
+  480  chmod +x lx_ex_3.sh 
+  481  . lx_ex_3.sh 
+  482  . lx_ex_3.sh bh
+  483  . lx_ex_3.sh 
+  484  . lx_ex_3.sh  > lx_sol_3.txt
+  485  vim lx_ex_3.sh
+  486  . lx_ex_3.sh  > lx_sol_3.txt
+  487  vim lx_ex_3.sh
+  488  vim lx_ex_4.sh
+  489  chmod +x lx_ex_4.sh 
+  490  . lx_ex_4.sh 
+  491  . lx_ex_4.sh > lx_sol_4.txt
+  492  vim lx_ex_5.sh
+  493  chmod +x lx_ex_5.sh 
+  494  . lx_ex_5.sh 
+  495  vim lx_ex_5.sh
+  496  . lx_ex_5.sh 
+  497  . lx_ex_5.sh > lx_sol_5.txt
+  498  vim lx_ex_6.sh
+  499  . lx_ex_5.sh 
+  500  ping 127.0.0.1
+  501  vim lx_ex_5.sh 
+  502  cat lx_ex_5.sh 
+  503  cat suggu.txt
+  504  $cat sugu.txt
+  505  cat sugu.txt
+  506  touch vish.txt
+  507  cat >vishw.txt
+  508  cat lx_ex_5.sh 
+  509  cat lx_ex_5.sh  > sugus.txt
+  510  cat 
+  511  ls
+  512  cat 1.txt >1.txt 
+  513  ls > 2.txt
+  514  cat 2.txt | tail -3
+  515  cat 2.txt | tail 
+  516  cat 2.txt | head 
+  517  cat 2.txt | head -3
+  518  ws
+  519  cat 2.txt | grep *.sh
+  520  cat 2.txt 
+  521  cat 2.txt | grep lx
+  522  cat 2.txt | grep .txt
+  523  cat 2.txt | grep .sh
+  524  cat 2.txt | grep ex
+  525  cat 2.txt | grep sol
+  526  cat 2.txt | egrep sol
+  527  cat 2.txt | egrep .t
+  528  cat 2.txt | grep sol|ex
+  529  cat 2.txt | grep 'sol|ex'
+  530  cat 2.txt | grep '.txt|.sh'
+  531  cd Desktop/
+  532  ls
+  533  cd linux_tuto/
+  534  ls
+  535  unset
+  536  help unset
+  537  vim lx_ex_6.sh 
+  538  bash -x lx_ex_6.sh 
+  539  vim lx_ex_6.sh 
+  540  ./ lx_ex_6.sh 
+  541  . /lx_ex_6.sh 
+  542  ./lx_ex_6.sh 
+  543  bash -x lx_ex_6.sh 
+  544  vim lx_ex_6.sh 
+  545  bash -x lx_ex_6.sh 
+  546  vim lx_ex_6.sh 
+  547  expr 5
+  548  vim lx_ex_7.sh 
+  549  chmod +x lx_ex_7.sh 
+  550  . lx_ex_7.sh 
+  551  ./lx_ex_7.sh 
+  552  ./lx_ex_7.sh  --deploy true
+  553  ./lx_ex_7.sh  --deploy true uglify false
+  554  ./ lx_ex_7.sh  --deploy true uglify false
+  555  bash lx_ex_7.sh  --deploy true uglify false
+  556  vim lx_ex_7.sh 
+  557  bash lx_ex_7.sh  --deploy true uglify false
+  558  vim lx_ex_7.sh 
+  559  bash lx_ex_7.sh  --deploy true uglify false
+  560  bash lx_ex_7.sh  --deploy true uglify false > lx_sol_7.txt
+  561  shebang.sh
+  562  vim shebang.sh
+  563  chmod +x shebang.sh 
+  564  . shebang.sh 
+  565  vim shebang.sh
+  566  nothing ./shebang.sh 
+  567  cd ~
+  568  cd Desktop/linux_tuto/
+  569  cd
+  570  vim /etc/snmp
+  571  cd /etc/snmp/
+  572  ls
+  573  vim snmp.conf 
+  574  vim snmpd.conf 
+  575  ls
+  576  nano snmpd.conf 
+  577  cd
+  578  nano /etc/snmp/snmpd.conf 
+  579  cd /etc/snmp
+  580  ls
+  581  vim snmp.conf 
+  582  vim snmpd.conf 
+  583  sudo vim snmpd.conf 
+  584  cd
+  585  sudo apt-get update
+  586  sudo apt-get upgrade
+  587  java -V
+  588  java -v
+  589  java --v
+  590  cd Downloads/
+  591  ls
+  592  cd
+  593  vim ~/.bashrc
+  594  source ~/.bashrc
+  595  java -version
+  596  cd
+  597  sudo apt-get install zookeeperd
+  598  telnet localhost 2181
+  599  sudo adduser --system --no-create-home --disabled-password --disabled-login kafka
+  600  wget "http://www-eu.apache.org/dist/kafka/1.0.1/kafka_2.12-1.0.1.tgz"
+  601  wget http://www-eu.apache.org/dist/kafka/1.0.1/kafka_2.12-1.0.1.tgz
+  602  curl "https://www.apache.org/dist/kafka/2.1.1/kafka_2.11-2.1.1.tgz" -o ~/Downloads/kafka.tgz
+  603  wget "https://www.apache.org/dist/kafka/2.1.1/kafka_2.11-2.1.1.tgz" -o ~/Downloads/kafka.tgz
+  604  wget "https://www.apache.org/dist/kafka/2.1.1/kafka_2.11-2.1.1.tgz" 
+  605  getmac
+  606  python3 --version
+  607  getmac
+  608  cd Videos/
+  609  cd Dependancies/
+  610  ls
+  611  wget "http://www-eu.apache.org/dist/kafka/1.0.1/kafka_2.12-1.0.1.tgz"
+  612  wget http://www-eu.apache.org/dist/kafka/1.0.1/kafka_2.12-1.0.1.tgz
+  613  wget https://dist.apache.org/repos/dist/release/kafka/1.0.1/kafka_2.12-1.0.1.tgz.asc
+  614  gpg --verify kafka_2.12-1.0.1.tgz.asc kafka_2.12-1.0.1.tgz
+  615  wget https://dist.apache.org/repos/dist/release/kafka/1.0.1/kafka_2.12-1.0.1.tgz.asc
+  616  gpg --verify kafka_2.12-1.0.1.tgz.asc kafka_2.12-1.0.1.tgz
+  617  cd Desktop/
+  618  cd linux_tuto/
+  619  ls -a
+  620  ls -A
+  621  ls -c
+  622  ls -d
+  623  ls -h
+  624  ls -H
+  625  ls -l
+  626  ls -o
+  627  ls -r
+  628  ls -s
+  629  ls -S
+  630  ls --sort=lx
+  631  ls --size
+  632  ls --status
+  633  ls --time
+  634  ls -time
+  635  ls --.txt
+  636  ls --txt
+  637  ls --extension
+  638  ls -t
+  639  ls -u
+  640  ls -v
+  641  ls -1
+  642  history 16
+  643  history 25
+  644  history 26 > ls_all_combination.txt
+  645  sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+  646  sudo apt update && sudo apt install qbittorrent
+  647  sudo apt install curl
+  648  wget https://dist.apache.org/repos/dist/release/kafka/1.0.1/kafka_2.12-1.0.1.tgz.asc
+  649  curl "https://www.apache.org/dist/kafka/2.1.1/kafka_2.11-2.1.1.tgz" -o ~/Downloads/kafka.tgz
+  650  mkdir ~/kafka && cd ~/kafka
+  651  ls
+  652  tar -xvzf ~/Downloads/kafka.tgz --strip 1
+  653  curl "https://www.apache.org/dist/kafka/2.1.1/kafka_2.11-2.1.1.tgz" -o ~/Downloads/kafka.tgz
+  654  tar -xvzf kafka.tgz --strip 1
+  655  tar -xvzf kafka_2.11-2.1.1.tgz --strip 1
+  656  tar -xvzf kafka_2.11-2.1.1.tgz 
+  657  curl "https://www.apache.org/dist/kafka/2.1.1/kafka_2.11-2.1.1.tgz" -o ~/Downloads/kafka.tgz
+  658  ls
+  659  tar -xvzf kafka.tgz 
+  660  tar -xvf kafka.tgz 
+  661  tar -xvzf kafka.tgz 
+  662  tar -xvzf kafka.tgz --strip 1
+  663  cd
+  664  cd ~
+  665  wget "http://www-eu.apache.org/dist/kafka/1.0.1/kafka_2.12-1.0.1.tgz"
+  666  wget http://www-us.apache.org/dist/kafka/2.2.1/kafka_2.12-2.2.1.tgz
+  667  tar xzf kafka_2.12-2.2.1.tgz
+  668  sudo mkdir /var/lib/kafka
+  669  sudo mkdir /var/lib/kafka/data
+  670  sudo nano /opt/kafka/config/server.properties
+  671  sudo vim /opt/kafka/config/server.properties
+  672  curl http://kafka.apache.org/KEYS | gpg --import
+  673  wget https://dist.apache.org/repos/dist/release/kafka/1.0.1/kafka_2.12-1.0.1.tgz.asc
+  674  gpg --verify kafka_2.12-1.0.1.tgz.asc kafka_2.12-1.0.1.tgz
+  675  wget https://dist.apache.org/repos/dist/release/kafka/1.0.1/kafka_2.12-1.0.1.tgz.asc
+  676  gpg --verify kafka_2.12-1.0.1.tgz.asc kafka_2.12-1.0.1.tgz
+  677  cd Videos/Dependancies/
+  678  ls
+  679  cd kafkas/
+  680  ls
+  681  bin/zookeeper-server-start.sh config/zookeeper.properties
+  682  bin/kafka-server-start.sh config/server.properties
+  683  nano /opt/kafka/config/server.properties
+  684  whereis zookeeper
+  685  cd /usr/share/zookeeper/
+  686  ls
+  687  cd bin/
+  688  ls
+  689  cd
+  690  cd Videos/Dependancies/kafkas/
+  691  ls
+  692  cd
+  693  cd kafkas/
+  694  ls
+  695  ls -lrt
+  696  bin/zookeeper-server-start.sh config/zookeeper.properties 
+  697  cd
+  698  cd Videos/Dependancies/kafkas/
+  699  ls
+  700  cd bin/
+  701  ls
+  702  cd ..
+  703  bin/zookeeper-starl
+  704  cd
+  705  cd Videos/Dependancies/kafkas/
+  706  ls 
+  707  bin/zookeeper-start.sh config/zookeeper.properties 
+  708  cd config/
+  709  ls
+  710  cd ..
+  711  zooinspector --version
+  712  zookeeper
+  713  zookeeper --version
+  714  bin/kafka-server-start.sh config/server.properties
+  715  bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic testTopic
+  716  bin/kafkatopics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic testTopic
+  717  bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic testTopic
+  718  vim ~/.bashrc
+  719  source ~/.bashrc
+  720  kafka --version
+  721  vim ~/.bashrc
+  722  cd  Videos/Dependancies/kafkas/
+  723  ls
+  724  bin/zookeeper-server-start.sh  config/zookeeper.properties 
+  725  cd Desktop/linux_tuto/
+  726  ls
+  727  touch f1.txt
+  728  vim f1.txt 
+  729  vim f2.txt 
+  730  cat f1.txt f2.txt  > f1_2.txt
+  731  vim f1_2.txt 
+  732  cat f1.txt f2.txt | grep Section
+  733  cat f1.txt f2.txt | grep squeeze
+  734  cat f1.txt f2.txt | grep concatenate
+  735  cat f1.txt f2.txt | grep cat
+  736  tree /
+  737  sudo apt-get install tree
+  738  tree /
+  739  cd Desktop/
+  740  tree
+  741  ls
+  742  cd linux_tuto/
+  743  tree
+  744  cd Downloads/
+  745  ls
+  746  cat bhushan_hdfc.pdf 
+  747  cat bhushan_hdfc.pdf >hdfc.pdf
+  748  pip install xgboost
+  749  pip3 install xgboost
+  750  history
+  751  history | grep instal
+  752  python -m pip install xgboost
+  753  jupyter notebook
+  754  python -m pip install jira
+  755  cd Desktop/
+  756  ls
+  757  cd anish_jiraa/
+  758  ls
+  759  python3 jira_output.py 
+  760  python -m pip install jira
+  761  python3 -m pip install jira
+  762  python3 -m pip install jira --user
+  763  python3 jira_output.py 
+  764  jupyter notbook
+  765  jupyter notebook
+  766  cd Documents/
+  767  ld
+  768  ls
+  769  cd
+  770  cd Desktop/
+  771  ls
+  772  mkdir joker
+  773  cd joker/
+  774  ls
+  775  python3 -m venv jok
+  776  sudo apt-get install python3-venv
+  777  source tutorial-env/bin/activate
+  778  python3 -m venv jok
+  779  source jok/bin/activate
+  780  python version
+  781  python -version
+  782  python --version
+  783  python3 --version
+  784  python3 -m pip install Django
+  785  pip freeze
+  786  django-admin startproject first_project
+  787  pip freeze
+  788  python3 -m pip install django
+  789  python3 -m pip install -e django/
+  790  ls
+  791  cd jok/
+  792  ls
+  793  cd ..
+  794  pip install --upgrade pip
+  795  python3 -m pip install -e django/
+  796  python3 -m pip install -e Django/
+  797  python3 -m pip install -e Django
+  798  python3 -m pip install Django
+  799  sudo apt-get install python3.6
+  800  python3 -m pip install Django
+  801  python -m pip install Django
+  802  python3.6 -m pip install Django
+  803  history20
+  804  history 20
+  805  history 20 > dja.txt
+  806  history 50 > dja.txt
+  807  exit
+  808  python3 --version
+  809  sudo apt-get install python3.6
+  810  python3 --version
+  811  python3.6 --version
+  812  sudo apt-get install python3.6
+  813  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.5 1
+  814  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 2
+  815  sudo update-alternatives --config python3
+  816  python3 -V
+  817  cd Desktop/
+  818  cd joker/
+  819  ls
+  820  python3 -m venv first
+  821  sudo apt-get install python3-venv
+  822  cd
+  823  cd Desktop/
+  824  mkdir dj
+  825  cd dj/
+  826  python3 -m venv first
+  827  sudo apt-get update
+  828  python3 -m venv first
+  829  python3 -m venv tutorial
+  830  ls
+  831  exit
+  832  cd Desktop/
+  833  mkdir git_tuto
+  834  git --version
+  835  cd
+  836  git --version
+  837  git -version
+  838  git -v
+  839  git -V
+  840  # apt-get install git
+  841  sudo apt-get install git
+  842  sudo apt-get update
+  843  sudo apt-get install git
+  844  git -V
+  845  git -v
+  846  git -version
+  847  git --version
+  848  cd Desktop/
+  849  ls
+  850  mkdir git
+  851  cd git_tuto/
+  852  git --version
+  853  git status
+  854  git init
+  855  git branch 
+  856  git branch -a
+  857  touch first.py
+  858  vim first.py 
+  859  git status
+  860  touch second.py
+  861  vim second.py 
+  862  git status
+  863  git
+  864  git branch
+  865  git branch master
+  866  git branch Master
+  867  git branch bhusha
+  868  git init
+  869  git branch
+  870  cd
+  871  git config --global user.name "bhushan"
+  872  $ git config --global user.email "yourusername@example.com"
+  873  git config --global user.email "bhushankapat181193@gmail.com"
+  874  git config --list
+  875  cd Desktop/git_tuto/
+  876  ls
+  877  git init
+  878  git status
+  879  git log
+  880  git status
+  881  git add first.py 
+  882  git status
+  883  git add second.py 
+  884  git status
+  885  git log
+  886  git commit -m "commiting code for 1st time"
+  887  git log
+  888  git log --oneline
+  889  git checkout -b kaps
+  890  git branch
+  891  git checkout master 
+  892  git branch 
+  893  git checkout kaps 
+  894  git branch 
+  895  git status
+  896  touch third.py
+  897  vim third.py 
+  898  git status
+  899  git add third.py 
+  900  git status
+  901  git commit -m "third prg from kaps"
+  902  git log
+  903  git branch david
+  904  git branch --list
+  905  git checkout david 
+  906  ls
+  907  git status
+  908  git merge kaps 
+  909  git status
+  910  git checkout master 
+  911  git status
+  912  git merge kaps
+  913  git status
+  914  git log
+  915  remote add origin https://github.com/CoolKaps-Shan/git_prac.git
+  916  git push origin master
+  917  remote add origin https://github.com/CoolKaps-Shan/git_prac.git
+  918  git remote add origin https://github.com/CoolKaps-Shan/git_prac.git
+  919  git push origin master
+  920  git pull 
+  921  git pull remote master
+  922  git pull https://github.com/CoolKaps-Shan/git_prac.git
+  923  ls
+  924  git push origin master
+  925  git remote
+  926  git pull https://github.com/CoolKaps-Shan/git_prac.git
+  927  ls
+  928  git status
+  929  git push origin master
+  930  git status
+  931  git pull origin master
+  932  git status
+  933  git status -a
+  934  git status -b
+  935  git status -u
+  936  git status -s
+  937  git status -v
+  938  git logs
+  939  git log
+  940  git remote
+  941  git remote -V
+  942  git remote -v
+  943  git branch
+  944  git checkout origin/master 
+  945  git fetch origin
+  946  git status
+  947  git fetch origin
+  948  git status
+  949  git pull origin master
+  950  git status
+  951  git merge origin/master 
+  952  ls
+  953  vim third.py 
+  954  vim second.py 
+  955  git add .
+  956  git commit -a -m "unwanted changes removed"
+  957  git push origin master
+  958  git status
+  959  git log
+  960  git push origin master
+  961  git pull origin master
+  962  git push origin master
+  963  git push origin
+  964  git push origin master 
+  965  git pull origin master
+  966  ls
+  967  vim third.py 
+  968  git pull origin master
+  969  git push origin master 
+  970  git push --help
+  971  git push origin
+  972  git push origin master
+  973  git checkout
+  974  git checkout --list
+  975  git branch --list
+  976  git checkout master 
+  977  git push origin master
+  978  git pull origin master
+  979  vim third.py 
+  980  git push origin master
+  981  git status
+  982  git add .
+  983  git commit -a -m "removed unwanted"
+  984  git push origin master
+  985  git status
+  986  git push origin master
+  987  git status\
+  988  git status
+  989  git log
+  990  git branch -a
+  991  git branch -r
+  992  ls
+  993  \cd git
+  994  git init
+  995  git status
+  996  git branch 
+  997  git branch -a
+  998  git checkout
+  999  history > git.txt
