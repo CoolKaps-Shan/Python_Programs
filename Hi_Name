@@ -1,0 +1,5 @@
+user_input = input("enter your name : ")
+if ((user_input.isalpha()== True) or (user_input.isspace()==True)): 
+    print("hi " +user_input)
+else :
+    print("pls enetr valid name")

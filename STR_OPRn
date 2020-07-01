@@ -1,0 +1,38 @@
+#Given few words, convert them to lowercase, UPPERCASEand CamelCase. Print them to the console
+
+#string1 = "I LOVE MY I   
+try:
+    string2 = input("enter string ")
+    if (string2.isalpha()==True) :
+        choose()
+    else:
+        print("enter valid string")
+        
+except :
+    print("please enter valid string")
+        
+def case():
+    helo = string2.casefold()
+    print(helo)
+    
+
+
+def lower():
+    helo1 = string2.lower()
+    print(helo1)
+
+    
+def upper():
+    hello = string2.upper()
+    print(hello)
+
+def camel ():
+    hellos = string2.title()
+    print(hellos)
+    
+def choose():
+    camel()
+    case()
+    lower()
+    upper()
+    

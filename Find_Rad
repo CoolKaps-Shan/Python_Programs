@@ -1,0 +1,20 @@
+#7.  Given the area of the circle, write a program to print the radius
+import numpy as np
+def ALL():
+    try :
+        area_of_circle = float(input("enter area of circle :  "))
+        if (area_of_circle >=0.0000000000000001):
+            def rad():
+                #radius = (area_of_circle / 3.14)**(.5)
+                radius = (area_of_circle / 3.14)
+                radius_only = np.sqrt(radius)
+                print(radius_only)
+    
+            rad()
+        else :
+            print("enter +ve nos")
+    
+    except ValueError:
+        print("enter +ve no not Special Char")
+        
+ALL()

@@ -912,7 +912,7 @@
   912  git merge kaps
   913  git status
   914  git log
-  915  remote add origin https://github.com/CoolKaps-Shan/git_prac.git
+  915  remote add origin https://github.com/CoolKaps-Shan/git_prac.git                  https://github.com/CoolKaps-Shan/Python_Programs.git
   916  git push origin master
   917  remote add origin https://github.com/CoolKaps-Shan/git_prac.git
   918  git remote add origin https://github.com/CoolKaps-Shan/git_prac.git
