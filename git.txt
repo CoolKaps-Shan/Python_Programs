@@ -1,25 +1,4 @@
-    1  sudo apt-get update
-    2  sudo apt-get upgrade
-    3  sudo apt-get install mysql-server
-    4  sudo apt install snap
-    5  sudo apt-get install snap
-    6  snap
-    7  snap help --all
-    8  install snap
-    9  apt install snap
-   10  sudo apt install snap
-   11  sudo apt install snapd
-   12  python3 --version
-   13  sudo apt install python3.7
-   14  sudo apt install python3
-   15  sudo apt install python3.7
-   16  sudo apt-get install python3.7
-   17  sudo apt-get install python3.6
-   18  sudo apt install python3.6
-   19  sudo apt-get update
-   20  sudo apt install python3.6
-   21  sudo apt-get install python3.7
-   22  sudo apt-get update python3
+  
    23  python3 --version
    24  sudo apt-get install python3.6
    25  sudo apt-get install python3
